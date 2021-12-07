@@ -1,6 +1,7 @@
 # Sobre o projeto
   O projeto foi feito em duas partes separadas, uma para o front-end feito em Vue.Js e outra para o back-end feito em Node.Js.
   É necessario a instalação do node.js para a execução desse projeto.
+  O banco foi feito em MariaDb 10.4.20
 
 
 ## Configuração
